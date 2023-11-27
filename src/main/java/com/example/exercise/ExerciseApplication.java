@@ -10,6 +10,9 @@ public class ExerciseApplication {
 		SpringApplication.run(ExerciseApplication.class, args);
 		System.out.println("start1");
 		System.out.println("start3");
+		System.out.println("start5");
+		System.out.println(6);
+
 
 	}
 
