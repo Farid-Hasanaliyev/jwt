@@ -11,6 +11,7 @@ public class ExerciseApplication {
 		System.out.println("start1");
 		System.out.println("start3");
 		System.out.println("start5");
+		System.out.println(6);
 
 
 	}
