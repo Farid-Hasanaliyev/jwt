@@ -8,10 +8,7 @@ public class ExerciseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExerciseApplication.class, args);
-		System.out.println("start1");
-		System.out.println("start3");
-		System.out.println("start5");
-		System.out.println(6);
+		System.out.println(7);
 
 
 	}
